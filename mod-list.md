@@ -97,7 +97,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2208315526
 https://steamcommunity.com/sharedfiles/filedetails/?id=2824362101
 >依赖上一个弓箭mod，这个mod允许在武器店或军营里刷出来弓箭。
 
-###Siowar's Guns
+### Siowar's Guns
 https://steamcommunity.com/sharedfiles/filedetails/?id=3169009906
 >依赖snake蛇佬模组pack，增加了好几种符合游戏背景的枪械和配件，弥补了蛇佬mod新武器很少的遗憾，是我最喜爱的mod之一。
 
@@ -105,7 +105,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3169009906
 https://steamcommunity.com/sharedfiles/filedetails/?id=2613871263
 >长矛爱好者必备，末世怎么可以没有金属长矛呢！但不能修复，也不能附加刀具。
 
-###Craftable Metal Spear
+### Craftable Metal Spear
 https://steamcommunity.com/sharedfiles/filedetails/?id=2891960986
 >另一个金属长矛mod，和上一个用的材料不同。但不能修复，也不能附加刀具。
 
