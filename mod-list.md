@@ -148,7 +148,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2862018814
 >能够攀爬游戏里的梯子，并且还可以建造梯子（只能延伸到一个楼层）。
 
 
-## 界面(UI)类
+## 界面类
 ### 	MoreDescriptionForMoodies
 https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806
 >人物状态细节描述，必备模组。
