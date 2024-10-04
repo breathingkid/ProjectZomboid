@@ -271,22 +271,22 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204
 https://steamcommunity.com/sharedfiles/filedetails/?id=2754567348
 >这个是还是非常实用的，可以给背包打孔，能够挂载更多物品，比如长武器栏，容器栏，工具箱栏等等，但由于我目前体力很少，如果把锤子，步枪等挂载背包上会严重影响我负重，所以先暂时卸载了，等以后体力长期稳定最大值后再安装上，推荐不缺体力的网友安装，并且这个的手电筒栏位会覆盖掉BetterBelts的。
 
-###Vanilla vehicles animated
+### Vanilla vehicles animated
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3281755175
 >增加原版车辆开关门，后备箱的动作，本着少打mod的原则就没打，但是打了肯定体验更好点，过两天可能准备打上。
 
-###Bombs Spawn as Loot
+### Bombs Spawn as Loot
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2894528857
 >各种投掷物武器也能作为搜刮的资源，本着少打mod的原则就没打，炸弹被搜到的可能性在末世也是有的，哪天心情改变可能会打上。
 
-###Infection Scanner
+### Infection Scanner
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3332296598
 >感染探测器，能检查自己是否感染，还能检测配合最后生还者mod的真菌病毒，有时候自己是撕裂伤后是否感染病毒不能立刻判断，如果只靠恶心发烧等判断不一定百分之百准确，以为其他的病也有可能导致恶心发烧，但有了这个应该就可以了，只不过他还有其他依赖mod，并且他的真菌功能如果不打其他mod也是没用，不知道有没有其他能快速检测自己是否感染的mod。
 
-###The Last of Us Infected
+### The Last of Us Infected
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3248766883
 >增加最后生还者的4中丧尸类型，但是我不知道会不会覆盖原版的所有丧尸，如果是的话那我还不太想安装，因为我也想让原版的走尸存在，所以能共存是最好的。
