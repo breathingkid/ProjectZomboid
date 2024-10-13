@@ -11,6 +11,7 @@
   - [武器类](#武器类)
   - [物品类](#物品类)
   - [工具类](#工具类)
+  - [载具类](#载具类)
   - [界面类](#界面类)
   - [地图类](#地图类)
   - [音乐类](#音乐类)
@@ -147,6 +148,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2786499395
 https://steamcommunity.com/sharedfiles/filedetails/?id=2862018814
 >能够攀爬游戏里的梯子，并且还可以建造梯子（只能延伸到一个楼层）。
 
+### The Workshop
+https://steamcommunity.com/sharedfiles/filedetails/?id=2680473910
+>安装这个mod主要有两个需求，1 损坏了的各种刀具我不想直接扔掉，总觉得可以回收他们作为零部件才符合现实。2Scrap Armor的前置mod。
+
+## 载具类
+###  Vanilla vehicles animated
+https://steamcommunity.com/sharedfiles/filedetails/?id=3281755175
+>这个mod添加了原版汽车交互的真是动作，比如车门，引擎盖，后备箱等，能够更直观的看出当前汽车的状态，增添了沉浸感。喜欢原版汽车或不喜欢mod汽车的玩家，推荐安装。
 
 ## 界面类
 ### 	MoreDescriptionForMoodies
@@ -160,9 +169,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2948824747
 ### PZ-ClothingUI - Clothing items grid view
 >更友好的展示当前人物的穿着情况，更方便对装备进行查看和交互。
 
-### Weapon Condition Indicator
-https://steamcommunity.com/sharedfiles/filedetails/?id=2619072426
->武器状态直观显示，必备模组。
+
 
 
 ## 地图类
@@ -237,6 +244,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2713921292
 https://steamcommunity.com/sharedfiles/filedetails/?id=2464748152
 >由于原版的补丁打了后会严重影响服饰美观，这个能把补丁隐形，但是稍微影响点末日真实性，看自己了。
 
+### Scrap Armor!
+https://steamcommunity.com/sharedfiles/filedetails/?id=2658619264
+>末世怎么可以不让玩家用一些金属零件来装备自己防止被丧失咬呢，因为总是被咬，每次被咬都得重新开局，特别麻烦，如果能多挨几次咬不仅能够增加游戏的连贯性，而且也符合末世现实。
+
+### KATTAJ1 Military Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=3079948242
+>这个mod主要是土匪mod里有推荐可以和土匪mod结合，再加上90年代军队里有一些这种高级装备也不为过，没有影响游戏平衡，符合现实，我也没有其他类似mod，那就打上。
 
 ## 装饰类
 ### Spongie's Hair
@@ -255,17 +269,19 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2447729538
 https://steamcommunity.com/sharedfiles/filedetails/?id=3231442597
 >最新版本的幸存者mod，可以说这个相关老版本的mod我是装了卸，卸了装，因为总觉得末日得有点别人才真实，但是体验后总有不满意的，目前这个正在测试中，感觉还可以，反正我打这个mod只是设置成敌人，也不需要同伴。
 
+### Bandits NPC
+https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204
+>这个mod本身还是挺优秀的，很多种土匪类型，可参数化调整，更新也很频繁，但也就因为如此，有时候会我会遇到bug，所以思前想后我还是先不安装，等版本稳定后再安。
+2024.10.13更新，还是按耐不住，又装上了，这次测试不错，没有发现什么bug，土匪越来越接近真人思维了，妈的还会伏击我，真不错
 
-# 已卸载&未来可能安装的mod
+# 已卸载&随时会安装的mod
 
 ``` 
 卸载或没有安装的原因并不是不好，或不想用了，而是他不支持旧档，或与其他mod冲突，或当前版本不太稳定更新频繁，亦或我当前的小人状态不适合打这个mod
 时机合适之后会再次启用这些mod
 还有很多想不起来了没有列出，后面会慢慢补上
 ```
-### Bandits NPC
-https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204
->这个mod本身还是挺优秀的，很多种土匪类型，可参数化调整，更新也很频繁，但也就因为如此，有时候会我会遇到bug，所以思前想后我还是先不安装，等版本稳定后再安。
+
 
 ### Noir's Attachments
 https://steamcommunity.com/sharedfiles/filedetails/?id=2754567348
@@ -292,7 +308,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3248766883
 >增加最后生还者的4中丧尸类型，但是我不知道会不会覆盖原版的所有丧尸，如果是的话那我还不太想安装，因为我也想让原版的走尸存在，所以能共存是最好的。
 
 
-
+### Weapon Condition Indicator
+https://steamcommunity.com/sharedfiles/filedetails/?id=2619072426
+>武器状态直观显示，必备模组。和土匪mod冲突，会频繁报错，每次有土匪代码逻辑运行时就会报，但错误不会导致游戏崩溃，属于良性错误，但是我看着烦，还是忍痛割爱的把这个mod卸载了。
 
 
 
